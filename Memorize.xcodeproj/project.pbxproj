@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D898B81F266EC27B005C6D25 /* EmojiArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = D898B81E266EC27B005C6D25 /* EmojiArrays.swift */; };
 		D8EE187D265E1941002D1F8B /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EE187C265E1941002D1F8B /* MemorizeApp.swift */; };
 		D8EE187F265E1941002D1F8B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EE187E265E1941002D1F8B /* ContentView.swift */; };
 		D8EE1881265E1944002D1F8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8EE1880265E1944002D1F8B /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D898B81E266EC27B005C6D25 /* EmojiArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArrays.swift; sourceTree = "<group>"; };
 		D8EE1879265E1941002D1F8B /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8EE187C265E1941002D1F8B /* MemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeApp.swift; sourceTree = "<group>"; };
 		D8EE187E265E1941002D1F8B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				D8EE187C265E1941002D1F8B /* MemorizeApp.swift */,
 				D8EE187E265E1941002D1F8B /* ContentView.swift */,
+				D898B81E266EC27B005C6D25 /* EmojiArrays.swift */,
 				D8EE1880265E1944002D1F8B /* Assets.xcassets */,
 				D8EE1885265E1944002D1F8B /* Info.plist */,
 				D8EE1882265E1944002D1F8B /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D898B81F266EC27B005C6D25 /* EmojiArrays.swift in Sources */,
 				D8EE187F265E1941002D1F8B /* ContentView.swift in Sources */,
 				D8EE187D265E1941002D1F8B /* MemorizeApp.swift in Sources */,
 			);
